@@ -12,7 +12,7 @@ Groups
 - Group 4: gwright30, wknepp, kha5, sbombry1, bxy539
 - Group 5: hnaicker, hawad, aberard, rkabarwa, dmengeli
 - Group 6: tcartier, cwolver1, jpark127, smaciasa, pvickery
-- Group 7: kbc177, asangiul, lsantucc, melawady, spastor
+- Group 7: kbc177, asangiul, econstan, lsantucc, melawady, spastor
 - Group 8: astubbin, pmarino, aamphone, tgarrio1, arother1
 - Group 9: jbronyah, emolder, oyoungbl, jmurph91, tlopez7
 - Group 10: hcrettol, ksaravan, amart170, ltipto11, ccough13
